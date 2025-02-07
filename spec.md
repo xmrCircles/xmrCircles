@@ -1,7 +1,7 @@
 # Monero Circles
 Multisig Messaging Revamped
 
-The Problem:
+## The Problem:
 Multisig is hard to use, the MMS is bad. There is no GUI to use multisig and I can't easily exchange keys with large groups of people.
 
 Monero Circles is a new implementation with a GUI that does messaging over Tor to exchange multisig keys, it's not a main wallet, it's a multisig key manager and social application.
