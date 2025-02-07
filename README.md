@@ -1,7 +1,17 @@
-# Tauri + React + Typescript
+# Monero Circles
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## UNDER DEVELOPMENT
 
-## Recommended IDE Setup
+
+
+
+
+
+
+
+
+### Tauri + React Typescript FrontEnd
+
+#### Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
